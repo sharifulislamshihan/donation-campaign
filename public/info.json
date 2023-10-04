@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/VTZCRSg/Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "description": "Good health is the foundation of a fulfilling and vibrant life. It encompasses physical, mental, and emotional well-being. Maintaining good health involves adopting a balanced lifestyle that includes regular exercise, a nutritious diet, and adequate sleep. Physical fitness contributes to strong muscles and a robust cardiovascular system, reducing the risk of chronic diseases like heart disease and diabetes. Mental health is equally crucial, promoting cognitive function, emotional resilience, and stress management.A well-nourished body thrives with essential vitamins and minerals, bolstering the immune system and overall vitality. Moreover, emotional health, characterized by positive relationships and emotional stability, enhances one's overall quality of life. Regular health check-ups and preventive care are essential to detect and manage potential health issues early.Ultimately, good health empowers individuals to pursue their goals, enjoy life's pleasures, and face challenges with resilience and vigor. It is a priceless asset that should be cherished, nurtured, and prioritized throughout one's life journey.",
+        "price": 229.99,
+        "colors_card": "#0052FF26",
+        "colors_category": "#0052FF33",
+        "colors_write": "#0052FF"
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/PQsQ3tT/Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "description": "Education is the cornerstone of human development and progress. It encompasses a lifelong journey of acquiring knowledge, skills, and values that empower individuals to navigate the complexities of the world. Education opens doors to opportunities, fostering personal growth, critical thinking, and problem-solving abilities.At its core, education is not just about acquiring information; it's about nurturing curiosity and igniting a passion for learning. It equips individuals with the tools to pursue their dreams and contribute to society's betterment.From early childhood education to higher learning institutions, education shapes minds, fuels innovation, and drives societal advancements. It plays a pivotal role in promoting tolerance, diversity, and global awareness, fostering a sense of community and interconnectedness.In today's digital age, education is evolving, with online resources, e-learning platforms, and personalized learning experiences expanding access to knowledge. Embracing education means embracing progress, and it remains an essential force in shaping a brighter future for all.",
+        "price": 339.99,
+        "colors_card": "#FF444A15",
+        "colors_category": "#FF444C33",
+        "colors_write": "#FF444A"
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/VVy5ydm/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "description": "Clothing is essential, serving vital functions beyond mere fashion. It provides protection against harsh elements, shielding from cold, heat, and environmental hazards. Additionally, clothing serves as a form of self-expression, conveying one's identity, culture, and personality. It boosts confidence, enhancing self-esteem. Dressing appropriately is crucial for various occasions, be it formal events, work, or leisure. Moreover, clothing industries play a pivotal role in the global economy, providing jobs and driving innovation. It fosters creativity, enabling individuals to experiment with styles and adapt to changing trends. Clothing's significance lies not only in practicality but in its profound impact on culture, economy, and individual well-being.",
+        "price": 499.99,
+        "colors_card": "#79C23F26",
+        "colors_category": "#79C23F26",
+        "colors_write": "#79C23F"
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co/SVGbCrz/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "description": "Access to better food is essential for everyone's well-being. A balanced diet rich in nutrients, vitamins, and minerals is crucial for maintaining good health and preventing various illnesses. It fuels physical and cognitive development, ensuring individuals reach their full potential. Better food choices promote longevity and reduce the risk of chronic diseases like obesity, diabetes, and heart conditions. Additionally, sustainable and ethically sourced food practices are vital to protect the environment, preserve biodiversity, and combat climate change. Cultivating a global culture of better food, characterized by affordability, availability, and quality, is a shared responsibility that can lead to a healthier, happier, and more equitable world.",
+        "price": 199.99,
+        "colors_card": "#F8714726",
+        "colors_category": "#F871472F",
+        "colors_write": "#F87147"
+    },
+    {
+        "id": 5,
+        "image": "https://i.ibb.co/SVGbCrz/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "description": "Access to better food is essential for everyone's well-being. A balanced diet rich in nutrients, vitamins, and minerals is crucial for maintaining good health and preventing various illnesses. It fuels physical and cognitive development, ensuring individuals reach their full potential. Better food choices promote longevity and reduce the risk of chronic diseases like obesity, diabetes, and heart conditions. Additionally, sustainable and ethically sourced food practices are vital to protect the environment, preserve biodiversity, and combat climate change. Cultivating a global culture of better food, characterized by affordability, availability, and quality, is a shared responsibility that can lead to a healthier, happier, and more equitable world.",
+        "price": 199.99,
+        "colors_card": "#F8714726",
+        "colors_category": "#F871472F",
+        "colors_write": "#F87147"
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co/VVy5ydm/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "description": "Clothing is essential, serving vital functions beyond mere fashion. It provides protection against harsh elements, shielding from cold, heat, and environmental hazards. Additionally, clothing serves as a form of self-expression, conveying one's identity, culture, and personality. It boosts confidence, enhancing self-esteem. Dressing appropriately is crucial for various occasions, be it formal events, work, or leisure. Moreover, clothing industries play a pivotal role in the global economy, providing jobs and driving innovation. It fosters creativity, enabling individuals to experiment with styles and adapt to changing trends. Clothing's significance lies not only in practicality but in its profound impact on culture, economy, and individual well-being.",
+        "price": 499.99,
+        "colors_card": "#79C23F26",
+        "colors_category": "#79C23F26",
+        "colors_write": "#79C23F"
+    },
+    {
+        "id": 7,
+        "image": "https://i.ibb.co/PQsQ3tT/Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "description": "Education is the cornerstone of human development and progress. It encompasses a lifelong journey of acquiring knowledge, skills, and values that empower individuals to navigate the complexities of the world. Education opens doors to opportunities, fostering personal growth, critical thinking, and problem-solving abilities.At its core, education is not just about acquiring information; it's about nurturing curiosity and igniting a passion for learning. It equips individuals with the tools to pursue their dreams and contribute to society's betterment.From early childhood education to higher learning institutions, education shapes minds, fuels innovation, and drives societal advancements. It plays a pivotal role in promoting tolerance, diversity, and global awareness, fostering a sense of community and interconnectedness.In today's digital age, education is evolving, with online resources, e-learning platforms, and personalized learning experiences expanding access to knowledge. Embracing education means embracing progress, and it remains an essential force in shaping a brighter future for all.",
+        "price": 339.99,
+        "colors_card": "#FF444A15",
+        "colors_category": "#FF444C33",
+        "colors_write": "#FF444A"
+    },
+    {
+        "id": 8,
+        "image": "https://i.ibb.co/VTZCRSg/Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "description": "Good health is the foundation of a fulfilling and vibrant life. It encompasses physical, mental, and emotional well-being. Maintaining good health involves adopting a balanced lifestyle that includes regular exercise, a nutritious diet, and adequate sleep. Physical fitness contributes to strong muscles and a robust cardiovascular system, reducing the risk of chronic diseases like heart disease and diabetes. Mental health is equally crucial, promoting cognitive function, emotional resilience, and stress management.A well-nourished body thrives with essential vitamins and minerals, bolstering the immune system and overall vitality. Moreover, emotional health, characterized by positive relationships and emotional stability, enhances one's overall quality of life. Regular health check-ups and preventive care are essential to detect and manage potential health issues early.Ultimately, good health empowers individuals to pursue their goals, enjoy life's pleasures, and face challenges with resilience and vigor. It is a priceless asset that should be cherished, nurtured, and prioritized throughout one's life journey.",
+        "price": 229.99,
+        "colors_card": "#0052FF26",
+        "colors_category": "#0052FF33",
+        "colors_write": "#0052FF"
+    },
+    {
+        "id": 9,
+        "image": "https://i.ibb.co/VTZCRSg/Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "description": "Good health is the foundation of a fulfilling and vibrant life. It encompasses physical, mental, and emotional well-being. Maintaining good health involves adopting a balanced lifestyle that includes regular exercise, a nutritious diet, and adequate sleep. Physical fitness contributes to strong muscles and a robust cardiovascular system, reducing the risk of chronic diseases like heart disease and diabetes. Mental health is equally crucial, promoting cognitive function, emotional resilience, and stress management.A well-nourished body thrives with essential vitamins and minerals, bolstering the immune system and overall vitality. Moreover, emotional health, characterized by positive relationships and emotional stability, enhances one's overall quality of life. Regular health check-ups and preventive care are essential to detect and manage potential health issues early.Ultimately, good health empowers individuals to pursue their goals, enjoy life's pleasures, and face challenges with resilience and vigor. It is a priceless asset that should be cherished, nurtured, and prioritized throughout one's life journey.",
+        "price": 229.99,
+        "colors_card": "#0052FF26",
+        "colors_category": "#0052FF33",
+        "colors_write": "#0052FF"
+    },
+    {
+        "id": 10,
+        "image": "https://i.ibb.co/PQsQ3tT/Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "description": "Education is the cornerstone of human development and progress. It encompasses a lifelong journey of acquiring knowledge, skills, and values that empower individuals to navigate the complexities of the world. Education opens doors to opportunities, fostering personal growth, critical thinking, and problem-solving abilities.At its core, education is not just about acquiring information; it's about nurturing curiosity and igniting a passion for learning. It equips individuals with the tools to pursue their dreams and contribute to society's betterment.From early childhood education to higher learning institutions, education shapes minds, fuels innovation, and drives societal advancements. It plays a pivotal role in promoting tolerance, diversity, and global awareness, fostering a sense of community and interconnectedness.In today's digital age, education is evolving, with online resources, e-learning platforms, and personalized learning experiences expanding access to knowledge. Embracing education means embracing progress, and it remains an essential force in shaping a brighter future for all.",
+        "price": 339.99,
+        "colors_card": "#FF444A15",
+        "colors_category": "#FF444C33",
+        "colors_write": "#FF444A"
+    },
+    {
+        "id": 11,
+        "image": "https://i.ibb.co/VVy5ydm/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "description": "Clothing is essential, serving vital functions beyond mere fashion. It provides protection against harsh elements, shielding from cold, heat, and environmental hazards. Additionally, clothing serves as a form of self-expression, conveying one's identity, culture, and personality. It boosts confidence, enhancing self-esteem. Dressing appropriately is crucial for various occasions, be it formal events, work, or leisure. Moreover, clothing industries play a pivotal role in the global economy, providing jobs and driving innovation. It fosters creativity, enabling individuals to experiment with styles and adapt to changing trends. Clothing's significance lies not only in practicality but in its profound impact on culture, economy, and individual well-being.",
+        "price": 499.99,
+        "colors_card": "#79C23F26",
+        "colors_category": "#79C23F26",
+        "colors_write": "#79C23F"
+    },
+    {
+        "id": 12,
+        "image": "https://i.ibb.co/SVGbCrz/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "description": "Access to better food is essential for everyone's well-being. A balanced diet rich in nutrients, vitamins, and minerals is crucial for maintaining good health and preventing various illnesses. It fuels physical and cognitive development, ensuring individuals reach their full potential. Better food choices promote longevity and reduce the risk of chronic diseases like obesity, diabetes, and heart conditions. Additionally, sustainable and ethically sourced food practices are vital to protect the environment, preserve biodiversity, and combat climate change. Cultivating a global culture of better food, characterized by affordability, availability, and quality, is a shared responsibility that can lead to a healthier, happier, and more equitable world.",
+        "price": 199.99,
+        "colors_card": "#F8714726",
+        "colors_category": "#F871472F",
+        "colors_write": "#F87147"
+    }
+]
