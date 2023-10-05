@@ -1,8 +1,9 @@
+import BannerSearch from "../Banner/BannerSearch";
 
 const Home = () => {
     return (
         <div>
-            <h2>Hello</h2>
+            <BannerSearch></BannerSearch>
         </div>
     );
 };
