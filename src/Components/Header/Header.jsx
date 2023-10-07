@@ -22,9 +22,14 @@ const Header = () => {
                     </label>
                     <ul tabIndex={0} className="menu menu-sm dropdown-content mt-7 -z-[1] p-2 shadow bg-base-100 rounded-box w-52">
                         <div className="menu menu-horizontal">
-                            <NavLink to="/" className="tab text-lg text-black" >Home</NavLink>
-                            <NavLink to="/donation" className="tab text-lg text-black" >Donation</NavLink>
-                            <NavLink to="/statistics" className="tab text-lg text-black" >Statistics</NavLink>
+                            {/* <NavLink to="/" onClick={handleButtonActive(1)} className="tab text-lg text-black" >Home</NavLink>
+                            <NavLink to="/donation" onClick={handleButtonActive(2)} className="tab text-lg text-black" >Donation</NavLink>
+                            <NavLink to="/statistics" onClick={handleButtonActive(3)} className="tab text-lg text-black" >Statistics</NavLink> */}
+                            <NavLink to="/" onClick={() => handleButtonActive(1)} className={` text-lg ${isActive === 1 ? 'text-red-500 underline' : ''}`} >Home</NavLink>
+
+                            <NavLink to="/donation" onClick={() => handleButtonActive(2)} className={` text-lg ${isActive === 2 ? 'text-red-500 underline' : ''}`} >Donation</NavLink>
+
+                            <NavLink to="/statistics" onClick={() => handleButtonActive(3)} className={` text-lg ${isActive === 3 ? 'text-red-500 underline' : ''}`} >Statistics</NavLink>
                         </div>
                     </ul>
                 </div>
@@ -33,11 +38,11 @@ const Header = () => {
                     <ul className="menu menu-horizontal px-1">
                         <div className="tabs gap-9">
 
-                            <NavLink to="/" onClick={ () => handleButtonActive(1) } className={` text-lg ${isActive === 1 ? 'text-red-500 underline' : ''}`} >Home</NavLink>
+                            <NavLink to="/" onClick={() => handleButtonActive(1)} className={` text-lg ${isActive === 1 ? 'text-red-500 underline' : ''}`} >Home</NavLink>
 
-                            <NavLink to="/donation" onClick={ () => handleButtonActive(2) } className={` text-lg ${isActive === 2 ? 'text-red-500 underline' : ''}`} >Donation</NavLink>
+                            <NavLink to="/donation" onClick={() => handleButtonActive(2)} className={` text-lg ${isActive === 2 ? 'text-red-500 underline' : ''}`} >Donation</NavLink>
 
-                            <NavLink to="/statistics" onClick={ () => handleButtonActive(3)} className={` text-lg ${isActive === 3 ? 'text-red-500 underline' : ''}`} >Statistics</NavLink>
+                            <NavLink to="/statistics" onClick={() => handleButtonActive(3)} className={` text-lg ${isActive === 3 ? 'text-red-500 underline' : ''}`} >Statistics</NavLink>
                         </div>
                     </ul>
                 </div>

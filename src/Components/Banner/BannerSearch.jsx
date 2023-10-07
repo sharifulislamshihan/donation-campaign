@@ -14,7 +14,7 @@ const BannerSearch = () => {
     },[])
 
     return (
-        <div className="my-20">
+        <div className="my-28">
             <div className="h-40 my-24">
                 <h1 className="text-5xl font-bold text-center flex justify-center mt-14 ">I Grow By Helping People In Need</h1>
 
