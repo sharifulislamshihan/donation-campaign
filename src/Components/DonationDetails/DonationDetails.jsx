@@ -28,11 +28,7 @@ const DonationDetails = () => {
                     alt=""
                 />
                 <div className="button absolute bottom-0 p-10 bg-opacity-60  bg-stone-700 w-full">
-                    <button
-                        onClick={handleDonationDetails}
-
-                        className="btn text-white bg-pink-600 hovor:bg-pink-800"
-                    >
+                    <button onClick={handleDonationDetails} className="btn btn-primary text-white bg-pink-600 hover:bg-pink-800 ">
                         Donate  ${details.price}
                     </button>
                     <ToastContainer />

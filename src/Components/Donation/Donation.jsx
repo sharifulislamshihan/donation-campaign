@@ -8,7 +8,7 @@ const Donation = () => {
     const [donation, setDonation] = useState([]);
     const [donationDataLimit, setDonationDataLimit] = useState(4);
 
-    const handleShowAllButton = () =>{
+    const handleShowAllButton = () => {
         setDonationDataLimit(donation.length);
     }
 
@@ -37,8 +37,10 @@ const Donation = () => {
 
             <div>
                 {
-                    donationDataLimit<donation.length &&(
-                        <button onClick={handleShowAllButton} className="btn">Show all</button>
+                    donationDataLimit < donation.length && (
+                        <div className="flex justify-center">
+                            <button onClick={handleShowAllButton} className="btn bg-green-600 text-white hover:bg-green-900">Show all</button>
+                        </div>
                     )
                 }
             </div>
